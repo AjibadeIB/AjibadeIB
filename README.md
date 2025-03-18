@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjibadeIB, a data analyst with a passion for turning data into deep actionable insights.
-- 👀 I specialize in data cleaning, exploratory data analysis (EDA), and data visualization using tools like Python, R, SQL, and Tableau
+- 👀 I specialize in data cleaning, and exploration to building predictive models and applying machine learning, I use tools like Python, R, SQL, and Tableau to uncover patterns and solve complex problems.
 - 🌱 I hold a post-graduate diploma in Business Analyticsand Insight from Centennial College, where I developed a strong foundation in statistical modeling and machine learning..
 - 💞️ I enjoy working on projects that solve real-world problems, from optimizing business processes to predicting customer behavior. My GitHub repository showcases some of my favorite projects, including code, visualizations, and detailed explanations of my approach and findings.
 - 📫 How to reach me on linkedin.com/in/ajibadeib
