@@ -5,6 +5,7 @@
 - 📫 You can reach me on linkedin @linkedin.com/in/ajibadeib or email me @ajibadeib@gmail.com
 - ⚡ Fun fact: When I’m not analyzing data, I love participating in data science competitions on platforms like Kaggle, contributing to open-source projects, and staying up-to-date with the latest trends in analytics and technology.
 - Feel free to explore my projects and reach out if you’d like to collaborate or connect!
+- 👀 Take a moment to appreciate my certifications and projects https://github.com/AjibadeIB/certifications.wiki.git
 <!---
 AjibadeIB/AjibadeIB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
